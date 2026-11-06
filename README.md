@@ -4,6 +4,8 @@ A simple Tic Tac Toe game to demonstrate some knowledge of HTML, CSS, and JavaSc
 
 I built this game as a way to demonstrate my fundamental web development skills.
 
+**Click to play:** [https://kauealves-ka.github.io/tic-tac-toe/](https://kauealves-ka.github.io/tic-tac-toe/)
+
 ## Preview
 
 Here is how it looks: 
