@@ -4,7 +4,7 @@
  *
  * Copyright (c) 2026 KA.Dev
  * Licensed under the MIT License
- * https://github.com/KaueAlves-KA
+ * https://github.com/KaueAlves-KA/tic-tac-toe
 */
 
 /* 

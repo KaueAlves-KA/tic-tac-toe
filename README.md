@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-> A simple Tic Tac Toe game to demonstrate some knowledge of HTML, CSS, and JavaScript
+A simple Tic Tac Toe game to demonstrate some knowledge of HTML, CSS, and JavaScript
 
 I built this game as a way to demonstrate my fundamental web development skills.
 
